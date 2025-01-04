@@ -11,5 +11,7 @@ cd server && node index.js
 
  #installtion of Shaduicn 
  npx shadcn add toast serach accordion alert graph 
+ #Output 
+ <img src="https://github.com/sudhan670/graph/blob/main/Screenshot%202025-01-04%20142332.png" alt="nothing"/>
 
  
